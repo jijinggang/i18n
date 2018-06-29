@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<maps>
+	<map id="11000" bb="1" music="11" bmusic="19" tips="蓬莱阵营的新手村" name="子合村">
+		<building id="11001" tips="玩家降生的村落" name="新手村"/>
+		<building id="11002" tips="祭奠土地公的庙宇" name="土地庙"/>
+		<building id="11003" tips="位于子合村的跑商点" name="商栈"/>
+		<building id="11004" name="出城"/>
+		<building id="11005" tips="子合村近郊的草地" name="野草地"/>
+		<building id="11006" tips="子合村的水源地之一" name="古山潭"/>
+		<building id="11007" tips="兑换奖励码的使者" name="兑奖使者"/>
+		<building id="11008" tips="荒废已久的道路，少有人烟" name="古废道"/>
+	</map>
+	<map id="12000" bb="1" music="11" bmusic="19" tips="蓬莱阵营第一武馆所在地" name="庆东岛">
+		<building id="12001" tips="庆东岛的第一武馆" name="谷阳馆"/>
+		<building id="12002" tips="鱼龙混杂的闹市" name="松泊港"/>
+		<building id="12003" tips="位于庆东岛的跑商点" name="商栈"/>
+		<building id="12004" name="出城"/>
+		<building id="12005" tips="通往神秘的祈承宫" name="祈承宫郊外"/>
+		<building id="12006" tips="庆东岛第二武馆" name="望江亭"/>
+		<building id="12007" tips="庆东岛鱼贩交易的场所" name="贩鱼街"/>
+		<building id="12008" tips="荒废已久的道路，少有人烟" name="古废道"/>
+	</map>
+	<map id="13000" bb="1" music="11" bmusic="19" tips="蓬莱阵营主城" name="启月城">
+		<building id="13001" tips="在此提升成长值或领取卧薪尝胆任务" name="城主府"/>
+		<building id="13002" tips="可购买初期需要的装备、杂货和技能书等" name="玲珑阁"/>
+		<building id="13003" tips="位于启月城的跑商点" name="商栈"/>
+		<building id="13004" name="出城"/>
+		<building id="13005" tips="启月城外的竹林" name="紫竹林"/>
+		<building id="13006" tips="启月城先辈安息的地方" name="武灵阵"/>
+		<building id="13007" tips="通往其他城镇的码头" name="码头"/>
+		<building id="13008" tips="荒废已久的道路，少有人烟" name="古废道"/>
+	</map>
+	<map id="14000" bb="1" music="11" bmusic="19" tips="相传为海的发源地" name="海原">
+		<building id="14001" tips="海原岛主居住的府邸" name="竹岛府"/>
+		<building id="14002" tips="山形如马，得名马山" name="马山"/>
+		<building id="14003" tips="位于海原的跑商点" name="商栈"/>
+		<building id="14004" tips="进行阵营战或兑换碎银和装备的地方" name="战场"/>
+		<building id="14005" name="出城"/>
+		<building id="14006" tips="一片凶险的海滩" name="美静滩"/>
+		<building id="14007" tips="海原著名的酒坊" name="杏花坊"/>
+		<building id="14008" tips="怪石嶙峋，深不可测" name="通渊洞"/>
+		<building id="14009" tips="荒废已久的道路，少有人烟" name="古废道"/>
+	</map>
+	<map id="15000" bb="1" music="11" bmusic="19" tips="丘处机道长讲道的地方" name="东平镇">
+		<building id="15001" tips="凭海而建的楼阁" name="天莺阁"/>
+		<building id="15002" tips="临瀑观景的绝佳地点" name="无风亭"/>
+		<building id="15003" tips="位于东平镇的跑商点" name="商栈"/>
+		<building id="15004" tips="进行阵营战或兑换碎银和装备的地方" name="战场"/>
+		<building id="15005" name="出城"/>
+		<building id="15006" tips="一个荒凉的石窟" name="乱石窟"/>
+		<building id="15007" tips="东平最热闹的市集" name="浅草街"/>
+		<building id="15008" tips="东平镇的代表建筑" name="建灵台"/>
+		<building id="15009" tips="荒废已久的道路，少有人烟" name="古废道"/>
+	</map>
+	<map id="16000" bb="1" music="11" bmusic="19" tips="蓬莱阵营的重要产粮区" name="庆隆">
+		<building id="16001" tips="临江望月，风景独秀" name="半月台"/>
+		<building id="16002" tips="庆隆平民居住地" name="千江湾"/>
+		<building id="16003" tips="位于庆隆的跑商点" name="商栈"/>
+		<building id="16004" tips="进行阵营战或兑换碎银和装备的地方" name="战场"/>
+		<building id="16005" name="出城"/>
+		<building id="16006" tips="庆隆郊外的一座大山" name="兽爪山"/>
+		<building id="16007" tips="庆隆的海港" name="临江松"/>
+		<building id="16008" tips="庆隆的集市" name="金浦街"/>
+		<building id="16009" tips="荒废已久的道路，少有人烟" name="古废道"/>
+	</map>
+	<map id="21000" bb="2" music="10" bmusic="19" tips="江南阵营的新手村" name="凤林村">
+		<building id="21001" tips="玩家降生的村落" name="新手村"/>
+		<building id="21002" tips="祭奠土地公的庙宇" name="土地庙"/>
+		<building id="21003" tips="位于凤林村的跑商点" name="商栈"/>
+		<building id="21004" name="出城"/>
+		<building id="21005" tips="凤林村近郊的草地" name="野草地"/>
+		<building id="21006" tips="风景秀丽的河畔" name="凤林河畔"/>
+		<building id="21007" tips="兑换奖励码的使者" name="兑奖使者"/>
+		<building id="21008" tips="荒废已久的道路，少有人烟" name="古废道"/>
+	</map>
+	<map id="22000" bb="2" music="10" bmusic="19" tips="境内有美景桃花坞" name="华溪">
+		<building id="22001" tips="位于江边的议事阁" name="临风阁"/>
+		<building id="22002" tips="华溪山附近的山庄" name="月华庄"/>
+		<building id="22003" tips="位于华溪的跑商点" name="商栈"/>
+		<building id="22004" name="出城"/>
+		<building id="22005" tips="华溪北部的一片树林" name="小樟林"/>
+		<building id="22006" tips="有一株百年桃树" name="华溪山下"/>
+		<building id="22007" tips="华溪最美的景点" name="桃花坞"/>
+		<building id="22008" tips="荒废已久的道路，少有人烟" name="古废道"/>
+	</map>
+	<map id="23000" bb="2" music="10" bmusic="19" tips="江南阵营主城" name="江宁城">
+		<building id="23001" tips="在此提升成长值或领取卧薪尝胆任务" name="城主府"/>
+		<building id="23002" tips="可购买初期需要的装备、杂货和技能书等" name="玲珑阁"/>
+		<building id="23003" tips="位于江宁城的跑商点" name="商栈"/>
+		<building id="23004" name="出城"/>
+		<building id="23005" tips="江宁城外的竹林" name="紫竹林"/>
+		<building id="23006" tips="上代城主修建的建筑" name="武灵阵"/>
+		<building id="23007" tips="江宁溪的沿岸" name="溪边"/>
+		<building id="23008" tips="荒废已久的道路，少有人烟" name="古废道"/>
+	</map>
+	<map id="24000" bb="2" music="10" bmusic="19" tips="云亭湖，天下第一湖" name="燕子坞">
+		<building id="24001" tips="燕子坞中的豪华楼阁" name="东苕楼"/>
+		<building id="24002" tips="云亭湖畔的小亭子" name="云亭"/>
+		<building id="24003" tips="位于燕子坞的跑商点" name="商栈"/>
+		<building id="24004" tips="进行阵营战或兑换碎银和装备的地方" name="战场"/>
+		<building id="24005" name="出城"/>
+		<building id="24006" tips="燕子坞的一处瀑布" name="湍玉涧"/>
+		<building id="24007" tips="云亭湖边" name="云亭湖畔"/>
+		<building id="24008" tips="悬山的一处绝壁" name="悬山绝壁"/>
+		<building id="24009" tips="荒废已久的道路，少有人烟" name="古废道"/>
+	</map>
+	<map id="25000" bb="2" music="10" bmusic="19" tips="安静祥和的小镇" name="百灵镇">
+		<building id="25001" tips="胡杨林边的别苑" name="茂林苑"/>
+		<building id="25002" tips="湖边的六角亭" name="百翎亭"/>
+		<building id="25003" tips="位于百灵镇的跑商点" name="商栈"/>
+		<building id="25004" tips="进行阵营战或兑换碎银和装备的地方" name="战场"/>
+		<building id="25005" name="出城"/>
+		<building id="25006" tips="平江形成的一个三角洲" name="平江湾"/>
+		<building id="25007" tips="百灵镇外的一片树林" name="胡杨林"/>
+		<building id="25008" tips="镇外的一口废弃水井" name="枯井"/>
+		<building id="25009" tips="荒废已久的道路，少有人烟" name="古废道"/>
+	</map>
+	<map id="26000" bb="2" music="10" bmusic="19" tips="传言曾有星辰降落在此，遂更名落星庄" name="落星庄">
+		<building id="26001" tips="长老暂居的驿馆" name="居湘堰"/>
+		<building id="26002" tips="五音荷塘上的小亭子" name="映月亭"/>
+		<building id="26003" tips="位于落星庄的跑商点" name="商栈"/>
+		<building id="26004" tips="进行阵营战或兑换碎银和装备的地方" name="战场"/>
+		<building id="26005" name="出城"/>
+		<building id="26006" tips="一个神秘的洞窟" name="洪泽窟"/>
+		<building id="26007" tips="映月湖下游的一个港湾" name="映月湖湾"/>
+		<building id="26008" tips="落星庄修建的魅力荷塘" name="五音荷塘"/>
+		<building id="26009" tips="荒废已久的道路，少有人烟" name="古废道"/>
+	</map>
+	<map id="31000" bb="3" music="13" bmusic="19" tips="西域阵营的新手村" name="磨云村">
+		<building id="31001" tips="玩家降生的村落" name="新手村"/>
+		<building id="31002" tips="祭奠土地公的庙宇" name="土地庙"/>
+		<building id="31003" tips="位于磨云村的跑商点" name="商栈"/>
+		<building id="31004" name="出城"/>
+		<building id="31005" tips="磨云村近郊的草地" name="野草地"/>
+		<building id="31006" tips="磨云村东面的一带密林" name="密林"/>
+		<building id="31007" tips="兑换奖励码的使者" name="兑奖使者"/>
+		<building id="31008" tips="荒废已久的道路，少有人烟" name="古废道"/>
+	</map>
+	<map id="32000" bb="3" music="13" bmusic="19" tips="奇岩林立，曾经很繁华的小镇" name="九昭">
+		<building id="32001" tips="盛产奇岩的小镇" name="奇岩镇"/>
+		<building id="32002" tips="一处人工建造的石窟" name="克赫尔石窟"/>
+		<building id="32003" tips="位于九昭的跑商点" name="商栈"/>
+		<building id="32004" name="出城"/>
+		<building id="32005" tips="奇岩镇郊外的一处树林" name="小镇郊外"/>
+		<building id="32006" tips="废弃的天台宗总坛" name="天台山"/>
+		<building id="32007" tips="远古时代传下来的遗迹" name="古遗迹"/>
+		<building id="32008" tips="荒废已久的道路，少有人烟" name="古废道"/>
+	</map>
+	<map id="33000" bb="3" music="13" bmusic="19" tips="西域阵营主城" name="瓦边城">
+		<building id="33001" tips="在此提升成长值或领取卧薪尝胆任务" name="城主府"/>
+		<building id="33002" tips="可购买初期需要的装备、杂货和技能书等" name="玲珑阁"/>
+		<building id="33003" tips="位于瓦边城的跑商点" name="商栈"/>
+		<building id="33004" name="出城"/>
+		<building id="33005" tips="瓦边城外的松林" name="紫松林"/>
+		<building id="33006" tips="上代城主修建的建筑" name="武灵阵"/>
+		<building id="33007" tips="瓦边城堆积柴草的空地" name="乱柴堆"/>
+		<building id="33008" tips="荒废已久的道路，少有人烟" name="古废道"/>
+	</map>
+	<map id="34000" bb="3" music="13" bmusic="19" tips="传说曾有高僧圆寂在此" name="龙沙驿">
+		<building id="34001" tips="豪华的居住地" name="泥沃居"/>
+		<building id="34002" tips="具有宗教风格的亭子" name="雅丹亭"/>
+		<building id="34003" tips="位于龙沙驿的跑商点" name="商栈"/>
+		<building id="34004" tips="进行阵营战或兑换碎银和装备的地方" name="战场"/>
+		<building id="34005" name="出城"/>
+		<building id="34006" tips="一处杂草丛生的荒野" name="乱草地"/>
+		<building id="34007" tips="曾收藏过高僧的舍利" name="舍利塔"/>
+		<building id="34008" tips="龙沙河的河湾" name="龙沙河湾"/>
+		<building id="34009" tips="荒废已久的道路，少有人烟" name="古废道"/>
+	</map>
+	<map id="35000" bb="3" music="13" bmusic="19" tips="坐落于山谷中的神秘小镇" name="谷山">
+		<building id="35001" tips="沈老太筹建的地宫" name="古董窟"/>
+		<building id="35002" tips="各路消息的集散地" name="烽絮亭"/>
+		<building id="35003" tips="位于谷山的跑商点" name="商栈"/>
+		<building id="35004" tips="进行阵营战或兑换碎银和装备的地方" name="战场"/>
+		<building id="35005" name="出城"/>
+		<building id="35006" tips="相传曾经是一片滩涂" name="千莽滩"/>
+		<building id="35007" tips="山石如书，层层叠叠" name="曲径山"/>
+		<building id="35008" tips="塔木河的沿岸" name="塔木河畔"/>
+		<building id="35009" tips="荒废已久的道路，少有人烟" name="古废道"/>
+	</map>
+	<map id="36000" bb="3" music="13" bmusic="19" tips="西域阵营最大的城市" name="库勒">
+		<building id="36001" tips="阵营长老议事之地" name="天策府"/>
+		<building id="36002" tips="阵营招待客人的地方" name="九黎堡"/>
+		<building id="36003" tips="位于库勒的跑商点" name="商栈"/>
+		<building id="36004" tips="进行阵营战或兑换碎银和装备的地方" name="战场"/>
+		<building id="36005" name="出城"/>
+		<building id="36006" tips="大风时会发出响声的山" name="鸣沙山"/>
+		<building id="36007" tips="一处不起眼的小土冈" name="荒土冈"/>
+		<building id="36008" tips="一处幽暗林地" name="幽林"/>
+		<building id="36009" tips="荒废已久的道路，少有人烟" name="古废道"/>
+	</map>
+	<map id="41000" bb="4" music="12" bmusic="21" tips="位于亚洲的主城" name="中州">
+		<building id="41001" tips="领取江湖任务的场所" name="京兆府"/>
+		<building id="41002" tips="领取百环、藏宝图任务的场所" name="聚义厅"/>
+		<building id="41003" tips="钱庄和集市所在地" name="集贸市场"/>
+		<building id="41004" tips="中州的跑商点" name="商栈"/>
+		<building id="41005" tips="个人运镖的场所" name="镇远镖局"/>
+		<building id="41006" tips="进行阵营战或兑换碎银和装备的地方" name="战场"/>
+		<building id="41007" name=""/>
+		<building id="41008" tips="管理家族的场所，可以领取家族任务等" name="家族事务所"/>
+		<building id="41009" tips="可购买初期需要的装备、杂货和技能书等" name="玲珑阁"/>
+		<building id="4100a" tips="兑换奖励码的使者" name="兑奖使者"/>
+		<building id="4100b" tips="中州书院，收录着各种记载英豪世界名人轶事的书籍" name="中州书院"/>
+		<building id="41050" tips="可获得技能书和技能升级卷轴碎片" name="藏经阁"/>
+	</map>
+	<map id="51000" bb="4" music="06" bmusic="17" tips="位于欧洲的主城" name="安多比亚">
+		<building id="51001" tips="招待各国使者的宫殿" name="金汉殿"/>
+		<building id="51002" tips="各国首脑的议会厅" name="香榭宫"/>
+		<building id="51003" tips="钱庄和市场所在地" name="集贸市场"/>
+		<building id="51004" tips="安多比亚的跑商点" name="商栈"/>
+		<building id="51005" tips="家族运镖的场所" name="家族镖局"/>
+		<building id="51006" tips="进行阵营战或兑换碎银和装备的地方" name="战场"/>
+		<building id="51007" tips="东方势力在安多比亚的联络处" name="荣军院"/>
+		<building id="51008" tips="管理家族的场所，可以领取家族任务等" name="家族事务所"/>
+		<building id="51009" tips="可购买初期需要的装备、杂货和技能书等" name="玲珑阁"/>
+		<building id="5100a" tips="木剌夷刺客的秘密据点" name="神秘宫殿"/>
+	</map>
+	<map id="45003_0" bb="c" music="20" bmusic="21" tips="获取成长丹的地点" name="成长试炼"/>
+	<map id="41050_0" bb="d" music="04" bmusic="18" tips="藏经阁" name="藏经阁"/>
+	<map id="41050_1" bb="d" music="04" bmusic="18" tips="藏经阁" name="藏经阁"/>
+	<map id="45001_0" bb="4" music="05" bmusic="21" tips="金国派出迎接花剌子模和亲公主的队伍驻扎地" name="图拉齐"/>
+	<map id="45001_1" bb="4" music="05" bmusic="21" tips="金国派出迎接花剌子模和亲公主的队伍驻扎地" name="图拉齐"/>
+	<map id="45002_0" bb="b" music="05" bmusic="21" tips="狩猎将军金将胡沙虎经常狩猎的地方" name="达呼草原"/>
+	<map id="45002_1" bb="b" music="05" bmusic="21" tips="狩猎将军金将胡沙虎经常狩猎的地方" name="达呼草原"/>
+	<map id="46001_0" bb="5" music="04" bmusic="18" tips="篡权的大理乱臣高和、高祥躲藏的窝点" name="凌昭苑"/>
+	<map id="46001_1" bb="5" music="04" bmusic="18" tips="篡权的大理乱臣高和、高祥躲藏的窝点" name="凌昭苑"/>
+	<map id="46002_0" bb="6" music="04" bmusic="18" tips="木剌夷刺客的巢穴" name="普吉山"/>
+	<map id="46002_1" bb="7" music="04" bmusic="18" tips="木剌夷刺客的巢穴" name="普吉山"/>
+	<map id="46003_0" bb="8" music="04" bmusic="18" tips="美杜莎组织的东方据点" name="纳尼亚岛"/>
+	<map id="46003_1" bb="8" music="04" bmusic="18" tips="美杜莎组织的东方据点" name="纳尼亚岛"/>
+	<map id="46004_0" bb="9" music="04" bmusic="18" tips="缅甸蒲甘王的领地" name="甘泰武里"/>
+	<map id="46004_1" bb="9" music="04" bmusic="18" tips="缅甸蒲甘王的领地" name="甘泰武里"/>
+	<map id="47001_0" bb="e" music="22" bmusic="23" tips="未开放的神秘之地" name="瓦尔部落"/>
+	<map id="47001_1" bb="e" music="22" bmusic="23" tips="未开放的神秘之地" name="瓦尔部落"/>
+	<map id="tower" bb="a" music="06" bmusic="17" tips="神秘宫殿" name="神秘宫殿"/>
+	<map id="tower_npc" bb="a" music="06" bmusic="17" tips="神秘宫殿" name="神秘宫殿"/>
+	<map id="market" bb="a" music="06" bmusic="17" tips="进行交易和摆摊的场所" name="集贸市场"/>
+	<map id="45000" bb="4" music="20" bmusic="21" tips="战火蔓延的草原" name="塔拉河"/>
+	<map id="46000" bb="8" music="08" bmusic="18" tips="动荡不安的东南区域" name="曼加拉"/>
+	<map id="47000" bb="e" music="22" bmusic="23" tips="横跨欧亚的大陆" name="普兰大陆"/>
+	<map id="market0" bb="4" music="market" bmusic="21" name="中州集贸市场"/>
+	<map id="market1" bb="4" music="market" bmusic="17" name="皇城集贸市场"/>
+	<map id="world_map" bb="3" music="12" bmusic="16" tips="英豪世界地图" name="世界地图"/>
+	<map id="show" bb="0" music="06" bmusic="17" name="开场秀"/>
+	<map id="48000" tips="未开放的神秘之地" name="卡莫之地"/>
+	<map id="47001" tips="未开放的神秘之地" name="瓦尔部落"/>
+	<map id="47002" tips="未开放的神秘之地" name="巴米废墟"/>
+	<map id="47003" tips="未开放的神秘之地" name="赤炎台"/>
+	<map id="47004" tips="未开放的神秘之地" name="帕米拉宫"/>
+	<map id="48001" tips="未开放的神秘之地" name="穆枢遗迹"/>
+	<map id="48002" tips="未开放的神秘之地" name="瓦夫堡"/>
+	<map id="48003" tips="未开放的神秘之地" name="玄冥冰窟"/>
+	<map id="48004" tips="未开放的神秘之地" name="幽落迷森"/>
+</maps>

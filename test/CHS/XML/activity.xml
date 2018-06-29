@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 编辑使用 XMLSpy v2006 U (http://www.altova.com) 由 any (any) -->
+<root>
+	<info>
+		<name>江湖任务</name>
+		<time>00:00-24:00</time>
+		<bid>41001</bid>
+		<img>jiang.jpg</img>
+		<content>当天次数:{selfInfo.userInfo.jhcount}/14</content>
+		<level>27</level>
+		<exp>3</exp>
+		<drop>2</drop>
+		<money>1</money>
+		<des>&lt;font color="#01fdfd"&gt;27级&lt;/font&gt;后，每日可以从&lt;font color="#01fdfd"&gt;郭襄儿&lt;/font&gt;那里领取江湖任务，每日最多完成2轮。连续完成7环任务可获得&lt;font color="#01fdfd"&gt;悬赏令&lt;/font&gt;。&lt;font color="#01fdfd"&gt;注意&lt;/font&gt;：中途放弃江湖任务会重新计算环数和奖励。</des>
+	</info>
+	<info>
+		<name>劫镖</name>
+		<time>00:00-24:00</time>
+		<bid>41005</bid>
+		<img>biao.jpg</img>
+		<content>劫镖次数：{selfInfo.userInfo.attackTimes}/{selfInfo.userInfo.totalAttackTimes}</content>
+		<level>28</level>
+		<exp>3</exp>
+		<drop>1</drop>
+		<money>1</money>
+		<des>&lt;font color="#01fdfd"&gt;28级&lt;/font&gt;可以去&lt;font color="#01fdfd"&gt;镇远镖局&lt;/font&gt;劫镖，打劫对象是和你同等级段的镖车。打劫靠实力，记得做好战斗准备哦。</des>
+	</info>
+	<info>
+		<name>运镖</name>
+		<time>00:00-24:00</time>
+		<bid>41005</bid>
+		<img>biao.jpg</img>
+		<content>运镖次数：{selfInfo.userInfo.transTimes}/{selfInfo.userInfo.totalTimes}</content>
+		<level>28</level>
+		<exp>3</exp>
+		<drop>1</drop>
+		<money>1</money>
+		<des>&lt;font color="#01fdfd"&gt;28级&lt;/font&gt;可以到&lt;font color="#01fdfd"&gt;镇远镖局&lt;/font&gt;运镖。不同颜色的镖车可获得的经验不同，如果刷到高级镖车，可能会被打劫，记得要买保险。</des>
+	</info>
+	<info>
+		<name>百环任务</name>
+		<time>00:00-24:00</time>
+		<bid>41002</bid>
+		<img>bai.jpg</img>
+		<content>当天次数:{selfInfo.userInfo.loopquestCount}/100</content>
+		<level>31</level>
+		<exp>4</exp>
+		<drop>1</drop>
+		<money>1</money>
+		<des>&lt;font color="#01fdfd"&gt;31级&lt;/font&gt;可以去找&lt;font color="#01fdfd"&gt;联盟将军&lt;/font&gt;领取百环任务，完成后可获得大量经验奖励。百环任务每日可完成100次，每一环的经验都比前一环要高呢。</des>
+	</info>
+	<info>
+		<name>藏宝图任务</name>
+		<time>00:00-24:00</time>
+		<bid>41002</bid>
+		<img>cang.jpg</img>
+		<level>35</level>
+		<exp>1</exp>
+		<drop>4</drop>
+		<money>2</money>
+		<des>&lt;font color="#01fdfd"&gt;35级&lt;/font&gt;可以去&lt;font color="#01fdfd"&gt;中州聚义厅&lt;/font&gt;找&lt;font color="#01fdfd"&gt;百晓生&lt;/font&gt;领取任务，完成后可能获得藏宝图等奖励。从百晓生处领取任务要&lt;/font&gt;找&lt;font color="#01fdfd"&gt;消耗玉如意&lt;/font&gt;，这东西要完成赏金任务才能获得哟。</des>
+	</info>
+	<info>
+		<name>竞技场</name>
+		<time>00:00-24:00</time>
+		<img>jing.jpg</img>
+		<level>20</level>
+		<exp>1</exp>
+		<drop>3</drop>
+		<money>1</money>
+		<des>&lt;font color="#01fdfd"&gt;20级&lt;/font&gt;可以去&lt;font color="#01fdfd"&gt;竞技场&lt;/font&gt;与其他玩家竞技。在竞技场胜利可以获得积分，连胜次数越多，获得的积分越高，最高16连胜。竞技场积分可以换取装备等奖励。</des>
+	</info>
+	<info>
+		<name>赏金任务</name>
+		<time>00:00-24:00</time>
+		<img>shangjin.jpg</img>
+		<level>30</level>
+		<exp>2</exp>
+		<drop>4</drop>
+		<money>1</money>
+		<des>&lt;font color="#01fdfd"&gt;30级&lt;/font&gt;开始可以到副本的&lt;font color="#01fdfd"&gt;告示牌&lt;/font&gt;那里领取赏金任务。赏金任务有不同品质，品质越高奖励越丰厚。每天最多可用悬赏令刷新5次赏金任务。</des>
+	</info>
+	<info>
+		<name>名将试炼</name>
+		<time>每日11:00、16:00</time>
+		<img>ye.jpg</img>
+		<exp>1</exp>
+		<drop>4</drop>
+		<money>2</money>
+		<des>每日11:00、16:00举行&lt;font color="#01fdfd"&gt;名将试炼&lt;/font&gt;活动，战胜名将可获得丰厚奖励！&lt;font color="#01fdfd"&gt;30级&lt;/font&gt;以上玩家不要错过试炼良机哦。</des>
+	</info>
+	<info>
+		<name>皇家雇佣军</name>
+		<time>15:00-15:30</time>
+		<img>yong.jpg</img>
+		<exp>3</exp>
+		<drop>3</drop>
+		<money>1</money>
+		<des>&lt;font color="#01fdfd"&gt;30级&lt;/font&gt;起可以从组队大厅里找到&lt;font color="#01fdfd"&gt;皇家雇佣军&lt;/font&gt;，只需花少量金钱就能让他们为您作战。在一个副本里，您只能雇佣不同类型的皇家雇佣军哦。</des>
+	</info>
+	<info>
+		<name>阵营战</name>
+		<time>20:00-21:00</time>
+		<img>zhen.jpg</img>
+		<level>30</level>
+		<exp>1</exp>
+		<drop>3</drop>
+		<money>1</money>
+		<des>&lt;font color="#01fdfd"&gt;30级&lt;/font&gt;以上的玩家每天可以到各城市的&lt;font color="#01fdfd"&gt;战场&lt;/font&gt;报名参加阵营战，可以获得荣誉。这些荣誉可以在&lt;font color="#01fdfd"&gt;荣誉商店&lt;/font&gt;兑换丰厚奖励。</des>
+	</info>
+	<info>
+		<name>跑商</name>
+		<time>00:00-24:00</time>
+		<img>shang.jpg</img>
+		<content>当天次数：{selfInfo.userInfo.tradeCount}/{selfInfo.userInfo.maxTradeCount}</content>
+		<level>33</level>
+		<exp>1</exp>
+		<drop>1</drop>
+		<money>3</money>
+		<des>&lt;font color="#01fdfd"&gt;33级&lt;/font&gt;加入家族即可到每个城市的&lt;font color="#01fdfd"&gt;商栈&lt;/font&gt;领取跑商任务，完成后奖励金钱和家族贡献度。怎么玩？低买高卖&lt;font color="#01fdfd"&gt;赚差价&lt;/font&gt;嘛，同类商品在不同城市是有差价的哦。</des>
+	</info>
+
+</root>

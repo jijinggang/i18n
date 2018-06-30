@@ -1,6 +1,7 @@
 //author:jjg
 //time:2012-07-27
 //母语言到目标语言的映射管理
+import java.io.Console;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -20,6 +21,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 public class LangMapping {
 	// 根据原配置表增加一个新字符串Key
 	public void Add(String source,String remark) {
+		source = source.trim();
 		if(source == null || source.trim().isEmpty())
 			return;
 		
@@ -46,6 +48,8 @@ public class LangMapping {
 	//从配置文件读取
 	private void reset(String source, String dest) {
 		if(!_map.containsKey(source)){
+			String value = _map.get(source);
+			System.out.println(value);
 			_listUnused.add(new StrStr(source,""));
 		}
 		_map.put(source,  dest);

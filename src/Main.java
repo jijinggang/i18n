@@ -75,10 +75,7 @@ public class Main {
 			String strExt = Util.GetFileExt(file);
 			ITranslate trans = null;
 			
-			//这个是英豪客户端的文件 特殊处理一下 虽然是properties文件 但是当成文本处理
-			if(file.contains("pwyh_CN") && strExt.equals("properties"))
-				trans = new TextTranslator(langMap);
-			else if (strExt.equals("xls") || strExt.equals("xlsx"))
+			if (strExt.equals("xls") || strExt.equals("xlsx"))
 				trans = new ExcelTranslator(langMap);
 			else if (strExt.equals("properties"))
 				trans = new PropsTranslator(langMap);
